@@ -19,6 +19,15 @@ Adding Dependencies:
   
 ```
 
+
+> Creating Web Service in php Mysql
+1. Create folder in your root directory (in my case it is htdocs).
+2. create a php file inside the folder.
+
+
+write the following code. otherwise download code : [Download Link](https://pages.github.com/).
+
+
 ![Android Sync SQLite Database with Server](https://raw.githubusercontent.com/jayeshpansheriya/SqlSyncExample/master/android-sync-sqlite-database-with-mysql.png)
 
 ![Postman ScreenShort](https://raw.githubusercontent.com/jayeshpansheriya/SqlSyncExample/master/postman%20shot.PNG)
