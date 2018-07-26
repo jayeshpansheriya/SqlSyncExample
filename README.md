@@ -25,11 +25,11 @@ Adding Dependencies:
 1. Create folder in your root directory (in my case it is htdocs).
 2. create a php file inside the folder.
 
----
+
 
 write the following code. otherwise download code : [Download Link](https://github.com/jayeshpansheriya/SqlSyncExample/tree/master/SqliteSync).
 
-
+---
 
 - it's ready to run! :shipit:
 
