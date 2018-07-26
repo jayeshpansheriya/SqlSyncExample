@@ -25,7 +25,11 @@ Adding Dependencies:
 2. create a php file inside the folder.
 
 
-write the following code. otherwise download code : [Download Link](https://pages.github.com/).
+write the following code. otherwise download code : [Download Link](https://github.com/jayeshpansheriya/SqlSyncExample/tree/master/SqliteSync).
+
+
+
+- it's ready to run! :shipit:
 
 
 ![Android Sync SQLite Database with Server](https://raw.githubusercontent.com/jayeshpansheriya/SqlSyncExample/master/android-sync-sqlite-database-with-mysql.png)
