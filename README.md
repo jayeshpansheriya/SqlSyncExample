@@ -34,11 +34,8 @@ write the following code. otherwise download code : [Download Link](https://gith
 - it's ready to run! :shipit:
 
 ---
-<br/>
-<br/>
+
 ![Android Sync SQLite Database with Server](https://raw.githubusercontent.com/jayeshpansheriya/SqlSyncExample/master/android-sync-sqlite-database-with-mysql.png)
 
-<br/>
-<br/>
-<br/>
+
 ![Postman ScreenShort](https://raw.githubusercontent.com/jayeshpansheriya/SqlSyncExample/master/postman%20shot.PNG)
